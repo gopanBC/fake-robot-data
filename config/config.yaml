@@ -1,0 +1,7 @@
+fake_diffdrive_node:
+ros__parameters:
+motion_type: "straight"
+linear_speed: 0.2
+angular_speed: 0.0
+target_distance: 1.0
+target_angle: 1.57
